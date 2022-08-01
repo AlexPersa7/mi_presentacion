@@ -1,0 +1,43 @@
+---
+title: "Presentation Ninja"
+subtitle: "⚔<br/>with xaringan"
+author: "Yihui Xie"
+institute: "RStudio, PBC"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [useR, useR-fonts]
+---
+
+
+
+```{r xaringanExtra-clipboard, echo=FALSE}
+xaringanExtra::use_clipboard()
+```
+
+
+
+# título 1
+
+contenido de la **pagina**
+
+```{r}
+4+4
+```
+--
+
+contenido dos
+
+-- 
+
+contenido 3
+
+---
+
+## título 2
+
+--
+
+### título 3
+
+---
